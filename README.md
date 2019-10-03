@@ -1,7 +1,7 @@
 [<img src="https://github.com/google/sketch2ae/blob/gh-pages/gif/ae_gif.gif">](http://google.github.io/sketch2ae)
 
 # [Sketch2AE][5ae3a8a1]
-[Sketch][66b609ab] layers may now be imported into [After Effects][56a59ddd] without redrawing everything in Illustrator. Avoid the startling realization that you have to repeat the whole import process because forgot to split one element out onto its own layer or that type has to be converted into live text as an additional process per layer.
+[Sketch][66b609ab] layers may now be imported into [After Effects][56a59ddd] without redrawing everything in Illustrator. Avoid coming to the startling realization that you have to repeat the whole import process because you forgot to split one element out onto its own layer or that type has to be converted into live text as an additional process per layer.
 
   [5ae3a8a1]: http://google.github.io/sketch2ae "Sketch2AE"
 
@@ -22,7 +22,7 @@ Installation and usage at: http://google.github.io/sketch2ae
 # Change log
 ## [0.54] - 2018-03-29
 ### Fixes
-- The plugin has been broken since the release of Sketch 49. 
+- The plugin has been broken since the release of Sketch 49.
 
 ## [0.53] - 2017-11-09
 ### Changes
